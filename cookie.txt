@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+zhjw.dlut.edu.cn	FALSE	/	FALSE		JSESSIONID	jnoZgmc7ZvKL44rH-U_Dv
+zhjw.dlut.edu.cn	FALSE	/	FALSE		NSC_kjbpxv-iuuq	3744a3d0884a32a8bd049368094f32fb75e8cb42807ed9befcde5cba72dc7f1caf30d5b4
